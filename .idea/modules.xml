@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\zingTest\app\app.iml" filepath="E:\zingTest\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/zingTest.iml" filepath="$PROJECT_DIR$/zingTest.iml" />
+      <module fileurl="file://E:\zingTest\zingTest.iml" filepath="E:\zingTest\zingTest.iml" />
     </modules>
   </component>
 </project>
